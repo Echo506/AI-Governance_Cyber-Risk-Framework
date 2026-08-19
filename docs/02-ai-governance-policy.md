@@ -179,3 +179,7 @@ This policy is informed by:
 ## 12. Policy Statement
 
 NovaConnect Services will adopt AI in a manner that supports innovation without compromising security, privacy, accountability, customer trust, or operational resilience.
+
+git add docs/02-ai-governance-policy.md
+git commit -m "Add AI governance policy"
+git push origin main
